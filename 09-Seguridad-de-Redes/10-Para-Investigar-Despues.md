@@ -12,5 +12,5 @@
 - **Túneles y exfiltración de datos por protocolos "permitidos"**: técnicas como DNS tunneling o ICMP tunneling, que esconden tráfico dentro de protocolos que normalmente se permiten a través de firewalls.
   https://book.hacktricks.xyz/generic-methodologies-and-resources/tunneling-and-port-forwarding
 
-- **HackTricks**: una de las wikis más completas y gratuitas sobre metodologías de pentesting de redes, con ejemplos prácticos de casi cualquier escenario.
+- **HackTricks**: una de las wikis más completas y gratuitas sobre metodologías de pentesting de redes, con ejemplos prácticos de casi cualquier escenario
   https://book.hacktricks.xyz/
