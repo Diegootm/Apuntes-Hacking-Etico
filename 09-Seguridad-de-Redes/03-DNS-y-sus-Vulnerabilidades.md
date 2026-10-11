@@ -6,7 +6,7 @@ DNS (Domain Name System) es el sistema que traduce nombres de dominio legibles p
 ## Cómo funciona una consulta DNS (simplificado)
 1. Tu computadora pregunta "¿cuál es la IP de `example.com`?" a un servidor DNS (generalmente el de tu proveedor de internet, o uno público como `8.8.8.8` de Google).
 2. Si ese servidor no tiene la respuesta guardada (en caché), la va preguntando en cadena: primero a los servidores raíz, luego a los servidores del dominio `.com`, y finalmente al servidor autoritativo de `example.com`.
-3. La respuesta final vuelve hasta tu computadora, que ya puede conectarse directamente a esa IP.
+3. La respuesta final vuelve hasta tu computadora, que ya puede conectarse directamente a esa IP
 
 ## Tipos de registros DNS más comunes
 
